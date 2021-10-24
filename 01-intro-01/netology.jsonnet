@@ -1,5 +1,5 @@
 local k = (import 'ksonnet-util/kausal.libsonnet');
-
+local author = "Denis Borchev";
 {
   _config:: {
     name: 'change_me',
