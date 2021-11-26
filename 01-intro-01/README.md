@@ -1,3 +1,28 @@
+# Домашнее задание к занятию «1.1. Введение в DevOps»
+
+## Задание №1 - Подготовка рабочей среды
+
+1. Установить Py Charm Community Edition: https://www.jetbrains.com/ru-ru/pycharm/download/ - это бесплатная версия IDE. 
+Если у вас уже установлен любой другой продукт от JetBrains,то можно использовать его. ✅
+1. Установить плагины:
+    - Terraform, ✅
+    - MarkDown, ✅
+    - Yaml/Ansible Support, ✅
+    - Jsonnet. ✅
+1. Склонировать текущий репозиторий или просто создать файлы для проверки плагинов:
+    - [netology.tf](netology.tf) – терраформ,
+    - [netology.sh](netology.sh) – bash,
+    - [netology.md](netology.md) – markdown, 
+    - [netology.yaml](netology.yaml) – yaml,
+    - [netology.jsonnet](netology.jsonnet) – jsonnet.
+1. Убедитесь, что работает подсветка синтаксиса ✅
+1. Добавьте свое имя в каждый файл, сделайте снимок экран и загрузите его на любой сервис обмена картинками.
+    - Terraform: ![Терраформ](task_1_screenshots/tf.JPG)
+    - Bash: ![bahs](task_1_screenshots/sh.JPG)
+    - Markdown: ![markdown](task_1_screenshots/md.JPG)
+    - Yaml: ![Yaml](task_1_screenshots/yaml.JPG)
+    - Jsonnet: ![Jsonnet](task_1_screenshots/jsonnet.JPG)
+
 ## Задание №2 - Описание жизненного цикла задачи (разработки нового функционала)
 
 Чтобы лучше понимать предназначение дальнейших инструментов, с которыми нам предстоит работать, давайте 
